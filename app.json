@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "kiralamaApp",
+    "slug": "kiralamaApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      
+      "package": "com.tahaalper1.kiralamaApp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "17dd44e2-3915-403d-9758-950337f31719"
+      }
+    },
+    "owner": "tahaalper1"
+  }
+}
